@@ -25,8 +25,8 @@ This repository contains my daily solutions to LeetCode problems using Java. Eac
         └── ... 
 
 ## How to Navigate
-1. Go to the [[Problems/]](https://github.com/Vasu-04/LeetCode-Java-Daily/tree/main/Problems) folder to find the Java files for each LeetCode problem.
-2. For detailed explanations, check the corresponding markdown files in the [[Documentation/]](https://github.com/Vasu-04/LeetCode-Java-Daily/tree/main/Documentation) folder.
+1. Go to the [Problems/](https://github.com/Vasu-04/LeetCode-Java-Daily/tree/main/Problems) folder to find the Java files for each LeetCode problem.
+2. For detailed explanations, check the corresponding markdown files in the [Documentation/](https://github.com/Vasu-04/LeetCode-Java-Daily/tree/main/Documentation) folder.
 
 ## Categories
 1. Array
