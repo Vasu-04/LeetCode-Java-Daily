@@ -6,7 +6,8 @@
 ## Solution Explanation
 ### Initialization:
 
-    Two variables, targetIndex1 and targetIndex2, are defined to store the indices of the two numbers that sum up to the target.
+Two variables, targetIndex1 and targetIndex2, are defined to store the indices of the two numbers that sum up to the target.
+
 ### Nested Loops:
 
 1. The first for loop iterates through the array nums using the variable i. This represents the first number in the pair.
