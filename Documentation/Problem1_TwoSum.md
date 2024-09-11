@@ -26,6 +26,12 @@ After the loops complete (or the break is triggered), the result is stored in th
 - **34/34**
 
 ## Complexity
-- **Time Complexity**: O(n)
-- **Space Complexity**: O(n)
+- **Time Complexity**: O(n<sup>2</sup>)
+  
+  <img width="503" alt="image" src="https://github.com/user-attachments/assets/a1deb5dc-d736-498f-9314-59ac957d24c8">
+
+- **Space Complexity**: O(1)
+  
+  <img width="508" alt="image" src="https://github.com/user-attachments/assets/76c36f40-7f84-4808-89e0-c519483505ff">
+
 
