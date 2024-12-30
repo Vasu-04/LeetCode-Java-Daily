@@ -51,9 +51,7 @@ class Solution {
         int sum =0;
         int[] sortedArray = new int[nums.length];
         sortedArray = countingSort(nums);
-        //System.out.println(sortedArray);
         for(int i=0;i<sortedArray.length;i=i+2){
-            //sum += Math.min(sortedArray[i],sortedArray[i+1]);
             sum += sortedArray[i];
         }
         return sum;
