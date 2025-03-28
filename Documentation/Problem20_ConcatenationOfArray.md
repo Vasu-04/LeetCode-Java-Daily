@@ -46,7 +46,7 @@ An integer array `ans` of size `2 * nums.length` is created to store the concate
 - The function returns `ans`, which contains `nums` repeated twice in order.
   
 ## Test Cases Passed
-- **92/925**
+- **92/92**
 
 ## Complexity
 - **Time Complexity**: 
