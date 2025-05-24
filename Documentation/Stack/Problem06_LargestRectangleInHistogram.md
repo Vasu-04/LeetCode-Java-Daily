@@ -25,8 +25,9 @@ Given an array of integers heights representing the histogram's bar height where
 <pre>
   1. 1 <= heights.length <= 10<sup>5</sup>
   2. 0 <= heights[i] <= 10<sup>4</sup>
-
-[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+  </pre>
+  
+[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 ## Solution Explanation
 
