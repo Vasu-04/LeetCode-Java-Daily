@@ -2,6 +2,9 @@
 
 This repository contains my daily solutions to LeetCode problems using Java. Each solution is optimized for time and space complexity.
 
+## LeetCode Profile
+[<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cb7c67cf-0fe0-4d5f-af2e-a9562c010f92" />](https://leetcode.com/u/HimanshuJindal564/)
+
 ## Folder Structure
 
     ```plaintext
@@ -35,8 +38,7 @@ This repository contains my daily solutions to LeetCode problems using Java. Eac
 4. Dynamic Programming
 ... (other categories)
 
-## LeetCode Profile
-[[My LeetCode Profile]](https://leetcode.com/u/HimanshuJindal564/)
+
 
 ## Contributions
 Feel free to contribute by raising issues or submitting pull requests.
